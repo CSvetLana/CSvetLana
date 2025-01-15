@@ -1,6 +1,5 @@
-## Hi 👋
+## Hi 👋 я Светлана
 
-# Светлана Чупрасова
 [![Telegram](https://img.shields.io/badge/Telegram-la3136?style=social&logo=telegram)](https://t.me/Svet_Lana_Ch)
 [![Gmail](https://img.shields.io/badge/Gmail-la3136?style=social&logo=gmail)](mailto:chuprasovasvetlana@gmail.com)
 
