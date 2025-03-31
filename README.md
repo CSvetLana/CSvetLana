@@ -25,3 +25,5 @@
 ## Сертификаты
 ООО «Смартап Технолоджи» - [удостоверение о переквалификации](https://drive.google.com/file/d/1PHQiRTAi8obf36ECNEnXWeLs-xpInOmm/view?usp=sharing)
 
+Vita GPT - [AI Assistants](https://drive.google.com/file/d/1-3O525bznkfF636zB1HuaFQmgLywEcU3/view?usp=sharing)
+
