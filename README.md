@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-la3136?style=social&logo=gmail)](mailto:chuprasovasvetlana@gmail.com)
 
 ## Я Тестировщик (ручное + автоматизация)
-[:point_right: резюме](https://drive.google.com/file/d/1mLME7KWkS1BiKPdXi3O-tdYvltr20Va4/view?usp=sharing)
+[:point_right: резюме](https://drive.google.com/file/d/1h_JKN8I4yvEOKVeGDS5dUj0lYp0ZjG_c/view?usp=sharing)
 ## Ручное тестирование (Web)
 ![DevTools](https://img.shields.io/badge/DevTools-122529?style=flat-square&logo=googlechrome)
 ![Postman](https://img.shields.io/badge/Postman-122529?style=flat-square&logo=postman)
